@@ -1,0 +1,5 @@
+version: 1.0.0
+name: example
+workflows:
+  - uuid: 3046f712-142b-4a12-ab0c-87a77c71609e
+    release: 0.0.2
