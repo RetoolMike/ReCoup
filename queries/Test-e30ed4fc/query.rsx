@@ -8,7 +8,7 @@
     allowedGroupIds={[]}
     allowedGroups={[]}
     body={
-      '[{"key":"name","value":"{{ diff_name }}"},{"key":"test","value":"\\"example\\""}]'
+      '[{"key":"name","value":"{{ diff_name }}"},{"key":"test","value":"\\"example\\""},{"key":"blah","value":"\\"hello\\""}]'
     }
     bodyType="json"
     cookies="[]"
